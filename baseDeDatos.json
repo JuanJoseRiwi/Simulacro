@@ -1,0 +1,55 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "Nombre": "Televisor",
+            "Marca": "LG",
+            "Categoria": "Electrodomestico",
+            "Precio": 1500000,
+            "Stock": 10,
+            "Garantia": 12,
+            "Fecha Registro": "23/11/25"
+        },
+        {
+            "id": 3,
+            "Nombre": "Parlante",
+            "Marca": "JBL",
+            "Categoria": "AUDIO",
+            "Precio": 15000,
+            "Stock": 15,
+            "Garantia": 6,
+            "Fecha Registro": "23/11/25"
+        },
+        {
+            "id": 4,
+            "Nombre": "TECLADO",
+            "Marca": "ASUS",
+            "Categoria": "COMPUTACION",
+            "Precio": 200000,
+            "Stock": 18,
+            "Garantia": 3,
+            "Fecha Registro": "23/11/25"
+        },
+        {
+            "id": 5,
+            "Nombre": "MOUSE",
+            "Marca": "LOGITECH",
+            "Categoria": "COMPUTACION",
+            "Precio": 35000,
+            "Stock": 30,
+            "Garantia": 6,
+            "Fecha Registro": "23/11/25"
+        },
+        {
+            "id": 6,
+            "Nombre": "juan",
+            "Marca": "samsung",
+            "Categoria": "elefini",
+            "Precio": 12,
+            "Stock": 2,
+            "Garantia": 2,
+            "Fecha Registro": "23/11/25"
+        }
+    ],
+    "ventas": []
+}
